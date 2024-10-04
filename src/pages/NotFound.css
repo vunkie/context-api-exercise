@@ -1,0 +1,30 @@
+.err {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.err h1 {
+    font-size: 100px;
+    color: #fc0000;
+    border: 1px solid #fc0000;
+    background: #000;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+    height: 120px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.err p {
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+}
